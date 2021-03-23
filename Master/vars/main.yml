@@ -1,0 +1,5 @@
+---
+# vars file for Master
+master_ip: "192.168.43.220"
+port_no: "5683"
+master_dir: "/name"

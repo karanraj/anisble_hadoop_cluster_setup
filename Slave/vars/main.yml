@@ -1,0 +1,6 @@
+---
+# vars file for Slave
+master_ip: "192.168.43.220"
+port_no: "5683"
+slave_dir: "/data"
+
